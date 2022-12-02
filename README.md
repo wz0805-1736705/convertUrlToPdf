@@ -16,7 +16,7 @@ This tool can convert an url to pdf by passing a valid url and an expected outpu
 
 ## Run tool
 1. Locate to the folder of the tool<br>
-```$ cd /(YourFileLocation)/convertUrlToPdf```<br />
+```$ cd (YourFileLocation)/convertUrlToPdf```<br />
 2. Activate virtual environment<br />
 ```$ source env/bin/activate```
 3. Run the python code<br />
